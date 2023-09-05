@@ -12,8 +12,7 @@ export default function Rodape(props){
             })}
         </ul>
 
-
-            <p>&copy; 2021, Vite.js and React.</p>
+            <p>&copy; 2023, Vite.js and React.</p>
 
 
         </footer>
